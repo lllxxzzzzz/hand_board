@@ -1,0 +1,9 @@
+
+path: C:/Users/24223/Desktop/hand # dataset root dir
+train: images/train # train images (relative to 'path') 128 images
+val: images/train # val images (relative to 'path') 128 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: hand
